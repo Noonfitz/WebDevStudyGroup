@@ -1,0 +1,32 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+footer{
+    font-size: 13px;
+}
+figure{
+    width:60%;
+  
+}
+.htmlcode{
+    font-size: 1rem;
+    line-height: 1;
+}
+.whole-page{
+    margin: 4% 15%;
+    
+}
+
+.image-section{
+    text-align: center;
+}
+.HTP-image{
+    width:60%;
+    padding:2% 1%;
+    margin: auto;
+}
+
+.figure-2{
+    text-align: left;
+}
